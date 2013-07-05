@@ -1,0 +1,4 @@
+@author Marcelo Gornstein <marcelog@gmail.com>
+@copyright Marcelo Gornstein
+@title CI Erlang example
+@doc Sample Erlang application using rebar, ready for Jenkins

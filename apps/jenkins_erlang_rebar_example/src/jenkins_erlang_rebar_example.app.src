@@ -1,0 +1,8 @@
+{application, jenkins_erlang_rebar_example, [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [kernel, stdlib, syntax_tools, compiler, lager]},
+  {mod, {jenkins_erlang_rebar_example_app, []}},
+  {env, []}
+]}.

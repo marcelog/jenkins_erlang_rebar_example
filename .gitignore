@@ -1,0 +1,12 @@
+log/*
+apps/*/log
+apps/*/logs
+erl_crash.dump
+deps
+apps/*/ebin
+apps/*/doc/*/*.html
+apps/*/doc/*/*.css
+apps/*/doc/*.html
+apps/*/doc/*.css
+apps/*/doc/edoc-info
+apps/*/doc/erlang.png
